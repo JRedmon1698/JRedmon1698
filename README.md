@@ -1,7 +1,7 @@
 
 
 
-- 🔭 I’m currently working on Homeward-Bound, a home inventory traking app. 
+- 🔭 I’m currently working on Homeward-Bound, a home inventory tracking app. 
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on open source projects. 
 - 💬 Ask me about my apps!
