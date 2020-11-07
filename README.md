@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 
 -->
 
-[![JRedmon1698's github stats](https://github-readme-stats.vercel.app/api?username=JRedmon1698&theme=synthwave)]
+[![JRedmon1698's github stats](https://github-readme-stats.vercel.app/api?username=JRedmon1698&theme=vision-friendly-dark)]
